@@ -1,5 +1,5 @@
 <h1 align="center">"👋Hello, World!"</h1>
-Simple "Hello, World!" project written in Java<br>
+Simple "Hello, World!" project written in Java.<br>
 <i>can u make fork, pls? :c</i>
 <h2>Requirements</h2>
 This program requires <b>JDK 17</b>. Click <a href="https://www.oracle.com/java/technologies/downloads/#java17">here</a> to download and install it.

@@ -3,8 +3,6 @@ Simple "Hello, World!" project written in Java.<br>
 <i>can u make fork, pls? :c</i>
 <h2>Requirements</h2>
 This program requires <b>JDK 17</b>. Click <a href="https://www.oracle.com/java/technologies/downloads/#java17">here</a> to download and install it.
-<h2>Build tools</h2>
-There is no build tools.
 <h2>How to download and run</h2>
 You must first download this program. Click <a href="https://github.com/GoldenVadim/HelloWorld/releases/tag/release">here</a> to download it. To download it with terminal you must first install the package named <b>wget</b> by running this command:<br>
 <code>apt install wget</code> or <code>pacman -S wget</code> (you must run this command in sudo mode)<br><br>
